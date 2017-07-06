@@ -6,6 +6,6 @@ package designPatterns.structuralPattern.decorator;
 public class Source implements Sourceable {
     @Override
     public void method() {
-        System.out.println("1111111111");
+        System.out.println("装饰模式");
     }
 }
