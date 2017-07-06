@@ -1,0 +1,10 @@
+package designPatterns.classAdapter;
+
+/**
+ * Created by Administrator on 2017/7/6.
+ */
+public class Source {
+    public void method1(){
+        System.out.println("方法一");
+    }
+}

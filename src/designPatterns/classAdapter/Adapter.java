@@ -1,0 +1,11 @@
+package designPatterns.classAdapter;
+
+/**
+ * Created by Administrator on 2017/7/6.
+ */
+public class Adapter extends Source implements Targetable {
+    @Override
+    public void method2() {
+        System.out.println("方法二");
+    }
+}
