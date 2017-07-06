@@ -1,8 +1,8 @@
-package designPatterns.factoryMethod3;
+package designPatterns.creationalPattern.factoryMethod3;
 
-import designPatterns.doMain.MailSend;
-import designPatterns.doMain.Sender;
-import designPatterns.doMain.SmsSend;
+import designPatterns.creationalPattern.doMain.MailSend;
+import designPatterns.creationalPattern.doMain.Sender;
+import designPatterns.creationalPattern.doMain.SmsSend;
 
 /**
  * Created by Administrator on 2017/7/6.

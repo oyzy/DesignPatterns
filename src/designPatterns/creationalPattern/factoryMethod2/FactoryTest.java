@@ -1,6 +1,6 @@
-package designPatterns.factoryMethod2;
+package designPatterns.creationalPattern.factoryMethod2;
 
-import designPatterns.doMain.Sender;
+import designPatterns.creationalPattern.doMain.Sender;
 
 /**
  * Created by Administrator on 2017/7/6.
