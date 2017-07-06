@@ -1,4 +1,4 @@
-package designPatterns.doMain;
+package designPatterns.creationalPattern.doMain;
 
 /**
  * Created by Administrator on 2017/7/6.

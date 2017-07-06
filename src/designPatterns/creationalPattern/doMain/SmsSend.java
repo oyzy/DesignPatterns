@@ -1,6 +1,4 @@
-package designPatterns.doMain;
-
-import designPatterns.doMain.Sender;
+package designPatterns.creationalPattern.doMain;
 
 /**
  * Created by Administrator on 2017/7/6.
