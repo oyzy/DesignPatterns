@@ -5,6 +5,6 @@ package designPatterns.structuralPattern.classAdapter;
  */
 public class Source {
     public void method1(){
-        System.out.println("方法一");
+        System.out.println("类的适配器11");
     }
 }

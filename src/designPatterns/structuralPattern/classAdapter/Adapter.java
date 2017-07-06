@@ -6,6 +6,6 @@ package designPatterns.structuralPattern.classAdapter;
 public class Adapter extends Source implements Targetable {
     @Override
     public void method2() {
-        System.out.println("方法二");
+        System.out.println("类的适配器22");
     }
 }
