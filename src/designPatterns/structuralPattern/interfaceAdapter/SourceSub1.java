@@ -6,6 +6,6 @@ package designPatterns.structuralPattern.interfaceAdapter;
 public class SourceSub1 extends Wrapper {
     @Override
     public void method1() {
-        System.out.println("方法一...");
+        System.out.println("接口的适配器..方法一...");
     }
 }
